@@ -1,4 +1,4 @@
-# Awesome vulnerable applications [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Vulnerable Applications [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of various vulnerable by design applications
 
@@ -13,8 +13,28 @@
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Hacker101 CTF](https://ctf.hacker101.com/)
+- [Web Security Academy](https://portswigger.net/web-security)
+- [Owasp Juice shop](https://github.com/bkimminich/juice-shop)
+- [DVWA - Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
+- [bWAPP, or a buggy web application](https://github.com/raesene/bWAPP)
+- [Xtreme Vulnerable Web Application](https://github.com/s4n7h0/xvwa)
+- [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+- [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
+- [dvws  - Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws)
+- [Metasploitable3](https://github.com/rapid7/metasploitable3)
+- [Hack The Box](https://www.hackthebox.eu/)
+- [CORS-vulnerable-Lab](https://github.com/incredibleindishell/CORS-vulnerable-Lab)
+- [SSRF_Vulnerable_Lab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab)
+- [vulnerable-sso](https://github.com/dogangcr/vulnerable-sso)
+- [xxelab](https://github.com/jbarone/xxelab)
+- [exploit-workshop](https://github.com/snyk/exploit-workshop)
+- [Yet Another Vulnerability Database](https://github.com/rtfpessoa/yavdb)
+- [Extreme Vulnerable Node Application](https://github.com/vegabird/xvna)
+- [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae)
+- [xssed](https://github.com/aj00200/xssed)
+- [wavsep](https://github.com/sectooladdict/wavsep)
+- [Vulhub](https://github.com/vulhub/vulhub)
 
 
 ## Another Section

@@ -5,28 +5,59 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Online](#Online)
+- [Paid](#Paid)
+- [Docker](#Docker)
+- [Vulnerable VMs](#Vulnerable VMs)
+- [Open-source](#Open-source)
+- [Cloud](#Cloud)
+- [SSO - Single Sign On](#SSO - Single Sign On)
+- [Uncategorized](#Uncategorized)
 
+## Online
 
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
+Online vulnerable app and CTFs
 
 - [Hacker101 CTF](https://ctf.hacker101.com/)
 - [Web Security Academy](https://portswigger.net/web-security)
+- [Hack The Box](https://www.hackthebox.eu/)
+
+## Paid
+
+Paid tranining courses
+
+## Docker
+
+- [DSVW - Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
+
+## Vulnerable VMs
+
+- [Vulhub](https://github.com/vulhub/vulhub)
+
+## Open-source
+
+About this section. Optional. Keep this short and focus on the list.
+
 - [Owasp Juice shop](https://github.com/bkimminich/juice-shop)
 - [DVWA - Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
 - [bWAPP, or a buggy web application](https://github.com/raesene/bWAPP)
 - [Xtreme Vulnerable Web Application](https://github.com/s4n7h0/xvwa)
+
+### Cloud
+
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
-- [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
+
+### SSO - Single Sign On
+
+- [vulnerable-sso](https://github.com/dogangcr/vulnerable-sso)
+
+
+
+### Uncategorized
 - [dvws  - Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws)
 - [Metasploitable3](https://github.com/rapid7/metasploitable3)
-- [Hack The Box](https://www.hackthebox.eu/)
 - [CORS-vulnerable-Lab](https://github.com/incredibleindishell/CORS-vulnerable-Lab)
 - [SSRF_Vulnerable_Lab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab)
-- [vulnerable-sso](https://github.com/dogangcr/vulnerable-sso)
 - [xxelab](https://github.com/jbarone/xxelab)
 - [exploit-workshop](https://github.com/snyk/exploit-workshop)
 - [Yet Another Vulnerability Database](https://github.com/rtfpessoa/yavdb)
@@ -34,7 +65,8 @@ About this section. Optional. Keep this short and focus on the list.
 - [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae)
 - [xssed](https://github.com/aj00200/xssed)
 - [wavsep](https://github.com/sectooladdict/wavsep)
-- [Vulhub](https://github.com/vulhub/vulhub)
+
+
 
 
 ## Another Section

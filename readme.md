@@ -5,14 +5,16 @@
 
 ## Contents
 
-- [Online](#Online)
-- [Paid](#Paid)
-- [Docker](#Docker)
-- [Vulnerable VMs](#Vulnerable VMs)
-- [Open-source](#Open-source)
-- [Cloud](#Cloud)
-- [SSO - Single Sign On](#SSO - Single Sign On)
-- [Uncategorized](#Uncategorized)
+- [Online](#online)
+- [Paid](#paid)
+- [Docker](#docker)
+- [Vulnerable VMs](#vulnerable-vms)
+- [Open-source](#open-source-apps)
+    - [Cloud](#cloud)
+    - [SSO - Single Sign On](#sso---single-sign-on)
+- [Uncategorized](#uncategorized)
+
+---
 
 ## Online
 
@@ -26,6 +28,8 @@ Online vulnerable app and CTFs
 
 Paid tranining courses
 
+- [PentesterLab](https://pentesterlab.com/)
+
 ## Docker
 
 - [DSVW - Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
@@ -34,7 +38,7 @@ Paid tranining courses
 
 - [Vulhub](https://github.com/vulhub/vulhub)
 
-## Open-source
+## Open-source apps
 
 About this section. Optional. Keep this short and focus on the list.
 

@@ -23,6 +23,7 @@ Online vulnerable app and CTFs
 - [Hacker101 CTF](https://ctf.hacker101.com/)
 - [Web Security Academy](https://portswigger.net/web-security)
 - [Hack The Box](https://www.hackthebox.eu/)
+- [CyberSec WTF](https://cybersecurity.wtf/)
 
 ## Paid
 

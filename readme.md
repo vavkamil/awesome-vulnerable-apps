@@ -47,6 +47,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [DVWA - Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
 - [bWAPP, or a buggy web application](https://github.com/raesene/bWAPP)
 - [Xtreme Vulnerable Web Application](https://github.com/s4n7h0/xvwa)
+- [DVRF - Damn Vulnerable Router Firmware](https://github.com/praetorian-code/DVRF)
 
 ### Cloud
 
@@ -59,6 +60,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 
 ### Uncategorized
+- [leaky-repo](https://github.com/Plazmaz/leaky-repo)
 - [dvws  - Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws)
 - [Metasploitable3](https://github.com/rapid7/metasploitable3)
 - [CORS-vulnerable-Lab](https://github.com/incredibleindishell/CORS-vulnerable-Lab)

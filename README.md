@@ -67,6 +67,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae)
 - [xssed](https://github.com/aj00200/xssed)
 - [wavsep](https://github.com/sectooladdict/wavsep)
+- [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
 
 
 ## Contribute

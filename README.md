@@ -33,6 +33,7 @@ Paid tranining courses
 ## Docker
 
 - [DSVW - Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
+- [Pentest_lab](https://github.com/oliverwiegers/pentest_lab)
 
 ## Vulnerable VMs
 

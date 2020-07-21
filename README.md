@@ -23,6 +23,9 @@ Online vulnerable app and CTFs
 - [Hacker101 CTF](https://ctf.hacker101.com/)
 - [Web Security Academy](https://portswigger.net/web-security)
 - [Hack The Box](https://www.hackthebox.eu/)
+- [Try Hack Me](https://tryhackme.com/)
+- [CTFtime](https://ctftime.org/)
+- [PWNABLE.KR](http://pwnable.kr/)
 
 ## Paid
 
@@ -39,6 +42,7 @@ Paid tranining courses
 ## Vulnerable VMs
 
 - [Vulhub](https://github.com/vulhub/vulhub)
+- [Exploit Exercises](https://exploit-exercises.lains.space/)
 
 ## Open-source apps
 
@@ -70,6 +74,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [xssed](https://github.com/aj00200/xssed)
 - [wavsep](https://github.com/sectooladdict/wavsep)
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
+
 
 
 ## Contribute

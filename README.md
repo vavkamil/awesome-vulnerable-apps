@@ -75,7 +75,8 @@ About this section. Optional. Keep this short and focus on the list.
 - [xssed](https://github.com/aj00200/xssed)
 - [wavsep](https://github.com/sectooladdict/wavsep)
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
-
+- [caponeme - Capital One Breach](https://github.com/avishayil/caponeme)
+- [clicker-service - simulate XSS](https://gitlab.com/r00k/clicker-service)
 
 
 ## Contribute

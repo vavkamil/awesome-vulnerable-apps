@@ -62,6 +62,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [vulnerable-sso](https://github.com/dogangcr/vulnerable-sso)
 
 ## Uncategorized
+- [DVNA - Damn Vulneable NodeJS Application](https://github.com/appsecco/dvna)
 - [dvws  - Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws)
 - [Metasploitable3](https://github.com/rapid7/metasploitable3)
 - [CORS-vulnerable-Lab](https://github.com/incredibleindishell/CORS-vulnerable-Lab)

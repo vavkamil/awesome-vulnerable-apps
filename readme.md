@@ -52,6 +52,9 @@ About this section. Optional. Keep this short and focus on the list.
 ### Cloud
 
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+- [CdkGoat - Vulnerable AWS CDK Infra](https://github.com/bridgecrewio/cdkgoat)
+- [Cfngoat - Vulnerable Cloudformation Template](https://github.com/bridgecrewio/cfngoat)
+- [TerraGoat - Vulnerable Terraform Infra](https://github.com/bridgecrewio/terragoat)
 
 ### SSO - Single Sign On
 

@@ -52,18 +52,23 @@ About this section. Optional. Keep this short and focus on the list.
 - [DVWA - Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
 - [bWAPP, or a buggy web application](https://github.com/raesene/bWAPP)
 - [Xtreme Vulnerable Web Application](https://github.com/s4n7h0/xvwa)
+- [DVRF - Damn Vulnerable Router Firmware](https://github.com/praetorian-code/DVRF)
 
 ## Cloud
 
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+- [CdkGoat - Vulnerable AWS CDK Infra](https://github.com/bridgecrewio/cdkgoat)
+- [Cfngoat - Vulnerable Cloudformation Template](https://github.com/bridgecrewio/cfngoat)
+- [TerraGoat - Vulnerable Terraform Infra](https://github.com/bridgecrewio/terragoat)
 
 ## SSO - Single Sign On
 
 - [vulnerable-sso](https://github.com/dogangcr/vulnerable-sso)
 
 ## Uncategorized
+- [leaky-repo](https://github.com/Plazmaz/leaky-repo)
 - [DVNA - Damn Vulneable NodeJS Application](https://github.com/appsecco/dvna)
-- [dvws  - Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws)
+- [dvws - Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws)
 - [Metasploitable3](https://github.com/rapid7/metasploitable3)
 - [CORS-vulnerable-Lab](https://github.com/incredibleindishell/CORS-vulnerable-Lab)
 - [SSRF_Vulnerable_Lab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab)

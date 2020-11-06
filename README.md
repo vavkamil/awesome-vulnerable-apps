@@ -38,6 +38,7 @@ Paid tranining courses
 - [DSVW - Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
 - [Pentest_lab](https://github.com/oliverwiegers/pentest_lab)
 - [DVWP - Damn Vulnerable WordPress](https://github.com/vavkamil/dvwp)
+- [OWASP SKF labs](https://github.com/blabla1337/skf-labs)
 
 ## Vulnerable VMs
 

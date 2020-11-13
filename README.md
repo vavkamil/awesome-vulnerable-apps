@@ -54,6 +54,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [bWAPP, or a buggy web application](https://github.com/raesene/bWAPP)
 - [Xtreme Vulnerable Web Application](https://github.com/s4n7h0/xvwa)
 - [DVRF - Damn Vulnerable Router Firmware](https://github.com/praetorian-code/DVRF)
+- [Damn Vulnerable Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
 
 ## Cloud
 

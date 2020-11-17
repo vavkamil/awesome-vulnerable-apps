@@ -12,6 +12,7 @@
 - [Open-source apps](#open-source-apps)
 - [Cloud](#cloud)
 - [SSO - Single Sign On](#sso---single-sign-on)
+- [Android](#android)
 - [Uncategorized](#uncategorized)
 
 ---
@@ -26,6 +27,7 @@ Online vulnerable app and CTFs
 - [Try Hack Me](https://tryhackme.com/)
 - [CTFtime](https://ctftime.org/)
 - [PWNABLE.KR](http://pwnable.kr/)
+- [XSS game](https://xss-game.appspot.com)
 
 ## Paid
 
@@ -67,6 +69,10 @@ About this section. Optional. Keep this short and focus on the list.
 ## SSO - Single Sign On
 
 - [vulnerable-sso](https://github.com/dogangcr/vulnerable-sso)
+
+## Android
+
+- [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
 
 ## Uncategorized
 - [leaky-repo](https://github.com/Plazmaz/leaky-repo)

@@ -92,6 +92,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
 - [caponeme - Capital One Breach](https://github.com/avishayil/caponeme)
 - [clicker-service - simulate XSS](https://gitlab.com/r00k/clicker-service)
+- [XSSworm.dev](https://github.com/vavkamil/XSSworm.dev)
 
 
 ## Contribute

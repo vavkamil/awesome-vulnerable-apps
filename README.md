@@ -75,6 +75,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
 
 ## Uncategorized
+- [Vulnerable Kext](https://github.com/ant4g0nist/Vulnerable-Kext)
 - [leaky-repo](https://github.com/Plazmaz/leaky-repo)
 - [DVNA - Damn Vulneable NodeJS Application](https://github.com/appsecco/dvna)
 - [dvws - Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws)

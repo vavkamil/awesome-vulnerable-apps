@@ -18,10 +18,10 @@
     - [CORS Misconfiguration](#CORS-Misconfiguration)
     - [XXE Injection](#XXE-Injection)
 - [Technologies](#Technologies)
-    - [### WordPress](#WordPress)
-    - [### Node.js](#Node.js)
-    - [### Firmware](#Firmware)
-- [## Uncategorized](#Uncategorized)
+    - [WordPress](#WordPress)
+    - [Node.js](#Node.js)
+    - [Firmware](#Firmware)
+- [Uncategorized](#Uncategorized)
 
 ---
 
@@ -133,6 +133,7 @@ Paid tranining courses
 - [leaky-repo](https://github.com/Plazmaz/leaky-repo) - Benchmarking repo for secrets scanning
 - [OWASP SKF labs](https://github.com/blabla1337/skf-labs) - Repo for all the OWASP-SKF Docker lab examples
 - [Vulnserver](https://github.com/stephenbradshaw/vulnserver) - Vulnerable server used for learning software exploitation
+- [Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
 
 ## Contribute
 

@@ -49,9 +49,6 @@ Paid tranining courses
 - [Exploit Exercises](https://exploit-exercises.lains.space/)
 - [Metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 
-
-##
-
 ## Cloud Security
 
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security.
@@ -70,7 +67,13 @@ Paid tranining courses
 - [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities
 - [Damn Vulnerable Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank) - Vulnerable Banking Application for Android
 - [Vulnerable Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation
-
+- [InjuredAndroid](https://github.com/B3nac/InjuredAndroid) - A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style. 
+- [Damn Vulnerable Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank) -  Damn Vulnerable Bank is designed to be an intentionally vulnerable android application.
+- [InsecureShop](https://github.com/optiv/InsecureShop) - An Intentionally designed Vulnerable Android Application built in Kotlin. 
+- [AndroGoat](https://github.com/satishpatnayak/AndroGoat) - AndroGoat is purposely developed open source vulnerable/insecure app using Kotlin.
+- [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities
+- [DIVA Android](https://github.com/payatu/diva-android) - Damn Insecure and vulnerable App for Android
+- [OVAA](https://github.com/oversecured/ovaa) - Oversecured Vulnerable Android App 
 
 ## OWASP Top 10
 
@@ -101,6 +104,7 @@ Paid tranining courses
 ### CORS Misconfiguration
 
 - [CORS-vulnerable-Lab](https://github.com/incredibleindishell/CORS-vulnerable-Lab) - Sample vulnerable code and its exploit code
+- [CORS misconfiguration vulnerable Lab](https://github.com/incredibleindishell/CORS_vulnerable_Lab-Without_Database) - This Repository contains CORS misconfiguration related vulnerable codes.
 
 ### XXE Injection
 
@@ -134,11 +138,16 @@ Paid tranining courses
 - [OWASP SKF labs](https://github.com/blabla1337/skf-labs) - Repo for all the OWASP-SKF Docker lab examples
 - [Vulnserver](https://github.com/stephenbradshaw/vulnserver) - Vulnerable server used for learning software exploitation
 - [Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) - Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
+- [Vulnerable-nginx](https://github.com/detectify/vulnerable-nginx) - An intentionally vulnerable NGINX setup 
+- [Raspwn OS](https://github.com/alphacharlie/raspwn/) - The intentionally vulnerable image for the Raspberry Pi.
+- [python_security](https://github.com/gbleaney/python_security) - This repository collects lists of security-relavent Python APIs, along with examples of exploits using those APIs 
+- [OWASP-VWAD](https://github.com/OWASP/OWASP-VWAD) - The OWASP Vulnerable Web Applications Directory project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available. 
+- [Vulhub](https://github.com/vulhub/vulhub) - Vulhub is an open-source collection of pre-built vulnerable docker environments. 
+- [VulnDoge](https://github.com/burpOverflow/VulnDoge) - Web app for hunters 
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 

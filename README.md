@@ -74,7 +74,7 @@ Paid tranining courses
 - [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities
 - [DIVA Android](https://github.com/payatu/diva-android) - Damn Insecure and vulnerable App for Android
 - [OVAA](https://github.com/oversecured/ovaa) - Oversecured Vulnerable Android App 
-
+- [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid) - Android Application covering various static and dynamic vulnerabilities
 ## OWASP Top 10
 
 - [Owasp Juice shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application

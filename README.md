@@ -17,6 +17,7 @@
     - [Server Side Request Forgery](#Server-Side-Request-Forgery)
     - [CORS Misconfiguration](#CORS-Misconfiguration)
     - [XXE Injection](#XXE-Injection)
+    - [Request Smuggling](#Request-Smuggling)
 - [Technologies](#Technologies)
     - [WordPress](#WordPress)
     - [Node.js](#Node.js)
@@ -110,6 +111,11 @@ Paid tranining courses
 
 - [XXE Lab](https://github.com/jbarone/xxelab) - A simple web app with a XXE vulnerability.
 - [docker-java-xxe](https://github.com/pimps/docker-java-xxe) - Docker image to test XXE attacks in java with tomcat.
+
+
+### Request Smuggling
+
+- [Varnish HTTP/2 Request Smuggling](https://github.com/detectify/Varnish-H2-Request-Smuggling) - This repository a docker-compose file to setup a local environment that is vulnerable to CVE-2021-36740 Varnish HTTP/2 request smuggling.
 
 ## Technologies
 

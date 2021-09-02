@@ -66,7 +66,6 @@ Paid tranining courses
 ## Mobile Security
 
 - [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities
-- [Damn Vulnerable Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank) - Vulnerable Banking Application for Android
 - [Vulnerable Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation
 - [InjuredAndroid](https://github.com/B3nac/InjuredAndroid) - A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style. 
 - [Damn Vulnerable Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank) -  Damn Vulnerable Bank is designed to be an intentionally vulnerable android application.

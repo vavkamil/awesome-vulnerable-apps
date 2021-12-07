@@ -65,6 +65,7 @@ Paid tranining courses
 
 ## Mobile Security
 
+- [Allsafe](https://github.com/t0thkr1s/allsafe) - Allsafe is an intentionally vulnerable application that contains various vulnerabilities.
 - [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities
 - [Vulnerable Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation
 - [InjuredAndroid](https://github.com/B3nac/InjuredAndroid) - A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style. 

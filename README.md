@@ -86,6 +86,7 @@ Paid tranining courses
 - [lazyweb](https://github.com/RamadhanAmizudin/lazyweb) - This web application is a demonstration of common server-side application flaws. Each of the vulnerabilities has its own difficulty rating.
 - [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.
 - [Pentest_lab](https://github.com/oliverwiegers/pentest_lab) - Local penetration testing lab using docker-compose.
+- [VulnLab](https://github.com/Yavuzlar/VulnLab) - A vulnerable web application lab using Docker
 
 ### SQL Injection
 

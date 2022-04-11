@@ -153,6 +153,7 @@ Paid tranining courses
 - [OWASP-VWAD](https://github.com/OWASP/OWASP-VWAD) - The OWASP Vulnerable Web Applications Directory project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available. 
 - [Vulhub](https://github.com/vulhub/vulhub) - Vulhub is an open-source collection of pre-built vulnerable docker environments. 
 - [VulnDoge](https://github.com/burpOverflow/VulnDoge) - Web app for hunters 
+- [CI/CD Goat](https://github.com/cider-security-research/cicd-goat) - Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, catch the flags.
 
 ## Contribute
 

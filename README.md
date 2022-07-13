@@ -155,6 +155,7 @@ Paid tranining courses
 - [Vulhub](https://github.com/vulhub/vulhub) - Vulhub is an open-source collection of pre-built vulnerable docker environments. 
 - [VulnDoge](https://github.com/burpOverflow/VulnDoge) - Web app for hunters 
 - [CI/CD Goat](https://github.com/cider-security-research/cicd-goat) - Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, catch the flags.
+- [Damn Vulnerable Thick Client](https://github.com/srini0x00/dvta) - Damn Vulnerable Thick Client App developed in C# .NET 
 
 ## Contribute
 

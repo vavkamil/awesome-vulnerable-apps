@@ -60,7 +60,8 @@ Paid tranining courses
 - [TerraGoat - Vulnerable Terraform Infra](https://github.com/bridgecrewio/terragoat) - TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository.
 - [caponeme - Capital One Breach](https://github.com/avishayil/caponeme) - Repository demonstrating the Capital One breach on your AWS account
 - [WrongSecrets](https://github.com/commjoen/wrongsecrets) - WrongSecrets is "Vulnerable by Design" to show how to not handle secrets in Docker, Kubernetes and in the cloud (AWS/GCP/Azure).
-
+- [AWSGoat](https://github.com/ine-labs/AWSGoat) - A Damn Vulnerable AWS Infrastructure
+- [AzureGoat](https://github.com/ine-labs/AzureGoat) - A Damn Vulnerable Azure Infrastructure
 
 ## SSO - Single Sign On
 

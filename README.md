@@ -91,6 +91,7 @@ Paid tranining courses
 - [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.
 - [Pentest_lab](https://github.com/oliverwiegers/pentest_lab) - Local penetration testing lab using docker-compose.
 - [VulnLab](https://github.com/Yavuzlar/VulnLab) - A vulnerable web application lab using Docker
+- [WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application by OWASP for training purpose
 
 ### SQL Injection
 

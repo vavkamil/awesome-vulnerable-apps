@@ -62,6 +62,7 @@ Paid tranining courses
 - [WrongSecrets](https://github.com/commjoen/wrongsecrets) - WrongSecrets is "Vulnerable by Design" to show how to not handle secrets in Docker, Kubernetes and in the cloud (AWS/GCP/Azure).
 - [AWSGoat](https://github.com/ine-labs/AWSGoat) - A Damn Vulnerable AWS Infrastructure
 - [AzureGoat](https://github.com/ine-labs/AzureGoat) - A Damn Vulnerable Azure Infrastructure
+- [IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable) - Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.
 
 ## SSO - Single Sign On
 

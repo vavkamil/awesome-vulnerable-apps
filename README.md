@@ -81,7 +81,7 @@ Paid tranining courses
 - [DIVA Android](https://github.com/payatu/diva-android) - Damn Insecure and vulnerable App for Android.
 - [OVAA](https://github.com/oversecured/ovaa) - Oversecured Vulnerable Android App.
 - [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid) - Android Application covering various static and dynamic vulnerabilities.
-- [Android Security Testing](https://github.com/RavikumarRamesh/hpAndro1337) - hpAndro1337 Application made in Kotlin with multiple Vulnerabilities and a CTF.
+- [Android Security Testing](https://github.com/RavikumarRamesh/hpAndro1337) - hpAndro1337 Application made in Kotlin with multiple vulnerabilities and a CTF.
 ## OWASP Top 10
 
 - [Owasp Juice shop](https://github.com/bkimminich/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application

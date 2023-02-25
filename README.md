@@ -77,7 +77,6 @@ Paid tranining courses
 - [Damn Vulnerable Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank) -  Damn Vulnerable Bank is designed to be an intentionally vulnerable android application.
 - [InsecureShop](https://github.com/optiv/InsecureShop) - An Intentionally designed Vulnerable Android Application built in Kotlin. 
 - [AndroGoat](https://github.com/satishpatnayak/AndroGoat) - AndroGoat is purposely developed open source vulnerable/insecure app using Kotlin.
-- [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities.
 - [DIVA Android](https://github.com/payatu/diva-android) - Damn Insecure and vulnerable App for Android.
 - [OVAA](https://github.com/oversecured/ovaa) - Oversecured Vulnerable Android App.
 - [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid) - Android Application covering various static and dynamic vulnerabilities.

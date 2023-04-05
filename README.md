@@ -93,6 +93,7 @@ Paid tranining courses
 - [Pentest_lab](https://github.com/oliverwiegers/pentest_lab) - Local penetration testing lab using docker-compose.
 - [VulnLab](https://github.com/Yavuzlar/VulnLab) - A vulnerable web application lab using Docker
 - [WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application by OWASP for training purpose
+- [VAmPI](https://github.com/erev0s/VAmPI) - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing 
 
 ### SQL Injection
 

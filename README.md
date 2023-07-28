@@ -50,6 +50,7 @@ Paid tranining courses
 - [Vulhub](https://github.com/vulhub/vulhub)
 - [Exploit Exercises](https://exploit-exercises.lains.space/)
 - [Metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
+- [Hackmyvm.eu](https://hackmyvm.eu/)
 
 ## Cloud Security
 

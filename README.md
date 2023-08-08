@@ -163,7 +163,7 @@ Paid tranining courses
 - [VulnDoge](https://github.com/burpOverflow/VulnDoge) - Web app for hunters 
 - [CI/CD Goat](https://github.com/cider-security-research/cicd-goat) - Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, catch the flags.
 - [Damn Vulnerable Thick Client](https://github.com/srini0x00/dvta) - Damn Vulnerable Thick Client App developed in C# .NET 
-
+- [OSTE-Vulnerable-Web-Application ](https://github.com/OSTEsayed/OSTE-Vulnerable-Web-Application) - Vulnerable Web application made with PHP/SQL designed to help new web testers gain some experience and test DAST tools for identifying web vulnerabilities. - [OSTE-Meta-Scan](https://github.com/OSTEsayed/OSTE-Meta-Scan) - The OSTE meta scanner is a comprehensive web vulnerability scanner that combines multiple DAST scanners, including Nikto Scanner, OWASP ZAP, Nuclei, SkipFish, and Wapiti.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.

@@ -149,6 +149,7 @@ Paid tranining courses
 
 ## Uncategorized
 
+- [LogSnare](https://github.com/sea-erkin/log-snare) - A playground for testing, preventing, and logging IDOR vulnerabilities.
 - [GitHub Actions Goat](https://github.com/step-security/github-actions-goat) - Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [dvws - Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws) - Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.
 - [Fuzzgoat](https://github.com/fuzzstati0n/fuzzgoat) - A vulnerable C program for testing fuzzers.

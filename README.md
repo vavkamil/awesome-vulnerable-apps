@@ -38,6 +38,7 @@ Online vulnerable app and CTFs
 - [PWNABLE.KR](http://pwnable.kr/)
 - [XSS game](https://xss-game.appspot.com)
 - [Gin & Juice Shop](https://ginandjuice.shop/)
+- [8kSec Battlegrounds](https://8ksec.io/battle/)
 
 ## Paid
 

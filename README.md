@@ -39,6 +39,8 @@ Online vulnerable app and CTFs
 - [XSS game](https://xss-game.appspot.com)
 - [Gin & Juice Shop](https://ginandjuice.shop/)
 - [Duck Store](https://duck-store.escape.tech/)
+- [Pentest-Ground](https://pentest-ground.com/)
+- [DVAIB](https://dvaib.com/) - Damn Vulnerable AI Bank
 
 ## Paid
 
@@ -172,6 +174,7 @@ Paid tranining courses
 - [Damn Vulnerable Thick Client](https://github.com/srini0x00/dvta) - Damn Vulnerable Thick Client App developed in C# .NET 
 - [Damn Vulnerable RESTaurant](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
 - [VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp) - .NET vulnerable REST API
+- [OSTE-Vulnerable-Web-Application](https://github.com/OSTEsayed/OSTE-Vulnerable-Web-Application) - Vulnerable Web application made with PHP/SQL designed to help new web testers gain some experience and test DAST tools for identifying web vulnerabilities.
 
 ## Contribute
 

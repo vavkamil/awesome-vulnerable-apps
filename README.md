@@ -41,6 +41,7 @@ Online vulnerable app and CTFs
 - [Duck Store](https://duck-store.escape.tech/)
 - [Pentest-Ground](https://pentest-ground.com/)
 - [DVAIB](https://dvaib.com/) - Damn Vulnerable AI Bank
+- [OverTheWire: Wargames](https://overthewire.org/wargames/)
 
 ## Paid
 

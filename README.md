@@ -154,6 +154,10 @@ Paid tranining courses
 - [OWASP IoT Goat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
 - [DVID](https://github.com/Vulcainreo/DVID) -  Damn Vulnerable IoT Device
 
+### PHP
+
+- [DVLA](https://github.com/0xHaise/Damn-Vulnerable-Laravel-Application) - intentionally vulnerable Laravel implementation designed for learning about and practising Laravel Security. 
+
 ## Uncategorized
 
 - [LogSnare](https://github.com/sea-erkin/log-snare) - A playground for testing, preventing, and logging IDOR vulnerabilities.

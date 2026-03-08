@@ -20,6 +20,7 @@
     - [Request Smuggling](#Request-Smuggling)
 - [Technologies](#Technologies)
     - [WordPress](#WordPress)
+    - [.NET](#.NET)
     - [Node.js](#Node.js)
     - [Firmware](#Firmware)
 - [Uncategorized](#Uncategorized)
@@ -140,6 +141,9 @@ Paid tranining courses
 ### WordPress
 
 - [DVWP](https://github.com/vavkamil/dvwp) - Damn Vulnerable WordPress
+
+### .NET
+- [The Most Vulnerable .NET App](https://github.com/AlexGoOn/the-most-vulnerable-dotnet-app) - Interactive educational project that demonstrates common security vulnerabilities in .NET applications
 
 ### Node.js
 

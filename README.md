@@ -68,7 +68,8 @@ Paid tranining courses
 - [AWSGoat](https://github.com/ine-labs/AWSGoat) - A Damn Vulnerable AWS Infrastructure
 - [AzureGoat](https://github.com/ine-labs/AzureGoat) - A Damn Vulnerable Azure Infrastructure
 - [IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable) - Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.
-- [Sadcloud](https://github.com/nccgroup/sadcloud) - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure 
+- [Sadcloud](https://github.com/nccgroup/sadcloud) - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure
+- [Vulert](https://vulert.com) Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [CNAPPgoat](https://github.com/ermetic-research/cnappgoat) - CNAPPgoat is a multi-cloud, vulnerable-by-design environment deployment tool. 
 - [Unguard](https://github.com/dynatrace-oss/unguard) - An insecure cloud-native microservices demo application for Kubernetes
 

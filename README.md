@@ -116,6 +116,7 @@ Paid tranining courses
 - [XSSworm.dev](https://github.com/vavkamil/XSSworm.dev) - Self-replication contest
 - [xssed](https://github.com/aj00200/xssed) - A set of XSS vulnerable PHP scripts for testing
 - [xssable](https://github.com/kiwicom/xssable) - A vulnerable blogging platform used to demonstrate XSS vulnerabilities.
+- [Dom XSS](https://portswigger-labs.net/dom-invader/) - this hidden Dom xss Labs by portswigger use dork example site:https://portswigger-labs.net "xss" .
 
 ### Server Side Request Forgery
 

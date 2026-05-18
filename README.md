@@ -23,6 +23,7 @@
     - [.NET](#.NET)
     - [Node.js](#Node.js)
     - [Firmware](#Firmware)
+- [Supply Chain Security](#Supply-Chain-Security)
 - [Uncategorized](#Uncategorized)
 
 ---
@@ -157,6 +158,10 @@ Paid tranining courses
 - [DVRF](https://github.com/praetorian-code/DVRF) - The Damn Vulnerable Router Firmware Project
 - [OWASP IoT Goat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
 - [DVID](https://github.com/Vulcainreo/DVID) -  Damn Vulnerable IoT Device
+
+## Supply Chain Security
+
+- [Swiss Cheese Software](https://github.com/grepStrength/swiss-cheese-software) - Intentionally vulnerable multi-language app (Node.js, Python, Rust) with hardcoded secrets, outdated dependencies with known CVEs, and EOL packages. Designed to test supply chain security scanners, dependency auditors, and SBOM generators.
 
 ## Uncategorized
 

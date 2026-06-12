@@ -182,6 +182,7 @@ Paid tranining courses
 - [Damn Vulnerable RESTaurant](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
 - [VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp) - .NET vulnerable REST API
 - [OSTE-Vulnerable-Web-Application](https://github.com/OSTEsayed/OSTE-Vulnerable-Web-Application) - Vulnerable Web application made with PHP/SQL designed to help new web testers gain some experience and test DAST tools for identifying web vulnerabilities.
+- [MCP Object-Authz Lab](https://github.com/WRG-11/mcp-objauthz-lab) - Vulnerable-by-design MCP server for learning object-level / cross-tenant authorization (BOLA/IDOR) bugs, with a hunt checklist.
 
 ## Contribute
 

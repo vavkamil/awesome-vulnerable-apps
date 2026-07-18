@@ -180,6 +180,7 @@ Paid tranining courses
 - [Vulhub](https://github.com/vulhub/vulhub) - Vulhub is an open-source collection of pre-built vulnerable docker environments. 
 - [VulnDoge](https://github.com/burpOverflow/VulnDoge) - Web app for hunters 
 - [CI/CD Goat](https://github.com/cider-security-research/cicd-goat) - Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, catch the flags.
+- [TMGoat](https://github.com/virantisofficial/TMGoat) - "Vulnerable by design" threat-modeling benchmark & dojo: 30 realistic architectures with intentionally planted design flaws, hidden answer keys, and a recall/precision scoring harness. A WebGoat/TerraGoat-style sibling for threat modeling.
 - [Damn Vulnerable Thick Client](https://github.com/srini0x00/dvta) - Damn Vulnerable Thick Client App developed in C# .NET 
 - [Damn Vulnerable RESTaurant](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
 - [VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp) - .NET vulnerable REST API

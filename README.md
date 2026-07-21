@@ -54,6 +54,7 @@ Paid tranining courses
 
 - [Vulhub](https://github.com/vulhub/vulhub)
 - [Exploit Exercises](https://exploit-exercises.lains.space/)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous pentest engine (GPL-3.0): AD + Kubernetes + web, evidence trail on every finding, runs on local or hosted models.
 - [Metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [Hackmyvm.eu](https://hackmyvm.eu/)
 

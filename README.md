@@ -42,6 +42,7 @@ Online vulnerable app and CTFs
 - [Duck Store](https://duck-store.escape.tech/)
 - [Pentest-Ground](https://pentest-ground.com/)
 - [DVAIB](https://dvaib.com/) - Damn Vulnerable AI Bank
+- [Jackpot](https://hego.red/jackpot) - Ten vulnerable AI characters, one per OWASP LLM Top 10 category
 - [OverTheWire: Wargames](https://overthewire.org/wargames/)
 - [Agent Breaker](https://play.lakera.ai/agent-breaker)
 

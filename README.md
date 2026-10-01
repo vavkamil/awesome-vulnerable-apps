@@ -33,7 +33,7 @@ Online vulnerable app and CTFs
 
 - [Hacker101 CTF](https://ctf.hacker101.com/)
 - [Web Security Academy](https://portswigger.net/web-security)
-- [Hack The Box](https://www.hackthebox.eu/)
+- [Hack The Box](https://www.hackthebox.com/)
 - [Try Hack Me](https://tryhackme.com/)
 - [CTFtime](https://ctftime.org/)
 - [PWNABLE.KR](http://pwnable.kr/)
@@ -71,7 +71,7 @@ Paid tranining courses
 - [AzureGoat](https://github.com/ine-labs/AzureGoat) - A Damn Vulnerable Azure Infrastructure
 - [IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable) - Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.
 - [Sadcloud](https://github.com/nccgroup/sadcloud) - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure 
-- [CNAPPgoat](https://github.com/ermetic-research/cnappgoat) - CNAPPgoat is a multi-cloud, vulnerable-by-design environment deployment tool. 
+- [CNAPPgoat](https://github.com/tenable/cnappgoat) - CNAPPgoat is a multi-cloud, vulnerable-by-design environment deployment tool. 
 - [Unguard](https://github.com/dynatrace-oss/unguard) - An insecure cloud-native microservices demo application for Kubernetes
 - [Vulnerable Cloud Lab](https://github.com/anpa1200/vulnerable-cloud-lab) - Intentionally vulnerable GCP and AWS infrastructure deployed with Terraform for authorized cloud security training.
 
@@ -81,7 +81,7 @@ Paid tranining courses
 
 ## Mobile Security
 
-- [Allsafe](https://github.com/t0thkr1s/allsafe) - Allsafe is an intentionally vulnerable application that contains various vulnerabilities.
+- [Allsafe - Android](https://github.com/t0thkr1s/allsafe-android) - An intentionally vulnerable Android application for learning Android application security.
 - [InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2) - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities.
 - [Vulnerable Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - A WIP "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation.
 - [InjuredAndroid](https://github.com/B3nac/InjuredAndroid) - A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style. 
@@ -99,7 +99,7 @@ Paid tranining courses
 
 - [Owasp Juice shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [crApi](https://github.com/OWASP/crAPI) - completely ridiculous API: crAPI will help you to understand the ten most critical API security risks. crAPI is vulnerable by design, but you'll be able to safely run it to educate/train yourself.
-- [DVWA](https://github.com/ethicalhack3r/DVWA) - Damn Vulnerable Web Application (DVWA)
+- [DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [DSVW](https://github.com/stamparm/DSVW) - Damn Small Vulnerable Web
 - [bWAPP](https://github.com/raesene/bWAPP) - This is just an instance of the OWASP bWAPP project as a docker container.
 - [Xtreme Vulnerable Web Application](https://github.com/s4n7h0/xvwa) - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
@@ -153,7 +153,7 @@ Paid tranining courses
 
 ### Node.js
 
-- [exploit-workshop](https://github.com/snyk/exploit-workshop) - A step by step workshop to exploit various vulnerabilities in Node.js and Java applications
+- [exploit-workshop](https://github.com/snyk-labs/exploit-workshop) - A step by step workshop to exploit various vulnerabilities in Node.js and Java applications
 - [DVNA](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application
 - [Extreme Vulnerable Node Application](https://github.com/vegabird/xvna) - Extreme Vulnerable Node Application
 - [dvws-node](https://github.com/snoopysecurity/dvws-node) - Damn Vulnerable Web Service is a vulnerable web service/API/application that can be used to learn webservices/API vulnerabilities.

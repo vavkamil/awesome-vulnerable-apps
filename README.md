@@ -54,7 +54,6 @@ Paid tranining courses
 ## Vulnerable VMs
 
 - [Vulhub](https://github.com/vulhub/vulhub)
-- [Exploit Exercises](https://exploit-exercises.lains.space/)
 - [Metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [Hackmyvm.eu](https://hackmyvm.eu/)
 
@@ -180,7 +179,6 @@ Paid tranining courses
 - [python_security](https://github.com/gbleaney/python_security) - This repository collects lists of security-relavent Python APIs, along with examples of exploits using those APIs 
 - [OWASP-VWAD](https://github.com/OWASP/OWASP-VWAD) - The OWASP Vulnerable Web Applications Directory project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available. 
 - [Vulhub](https://github.com/vulhub/vulhub) - Vulhub is an open-source collection of pre-built vulnerable docker environments. 
-- [VulnDoge](https://github.com/burpOverflow/VulnDoge) - Web app for hunters 
 - [CI/CD Goat](https://github.com/cider-security-research/cicd-goat) - Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, catch the flags.
 - [Damn Vulnerable Thick Client](https://github.com/srini0x00/dvta) - Damn Vulnerable Thick Client App developed in C# .NET 
 - [Damn Vulnerable RESTaurant](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.

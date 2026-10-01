@@ -49,6 +49,7 @@ Online vulnerable app and CTFs
 Paid tranining courses
 
 - [PentesterLab](https://pentesterlab.com/)
+- [OOPS!](https://oops.codes) - Hands-on offensive-security labs platform with real vulnerable apps, real terminals, and real exploitation (no scripted answers). 63+ labs covering OWASP Top 10, JWT attacks, GraphQL, SSRF, deserialization, and more, each running in an isolated per-session Fargate sandbox.
 
 ## Vulnerable VMs
 

@@ -43,6 +43,7 @@ Online vulnerable app and CTFs
 - [Pentest-Ground](https://pentest-ground.com/)
 - [DVAIB](https://dvaib.com/) - Damn Vulnerable AI Bank
 - [OverTheWire: Wargames](https://overthewire.org/wargames/)
+- [Agent Breaker](https://play.lakera.ai/agent-breaker)
 
 ## Paid
 

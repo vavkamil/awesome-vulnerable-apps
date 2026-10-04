@@ -154,6 +154,7 @@ Paid tranining courses
 
 ### Node.js
 
+- [OWASP NodeGoat](https://github.com/OWASP/NodeGoat) - An intentionally vulnerable Node.js application for learning OWASP Top 10 security risks and how to fix them.
 - [exploit-workshop](https://github.com/snyk-labs/exploit-workshop) - A step by step workshop to exploit various vulnerabilities in Node.js and Java applications
 - [DVNA](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application
 - [Extreme Vulnerable Node Application](https://github.com/vegabird/xvna) - Extreme Vulnerable Node Application

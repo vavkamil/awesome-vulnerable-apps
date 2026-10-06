@@ -109,6 +109,7 @@ Paid tranining courses
 - [Pentest_lab](https://github.com/oliverwiegers/pentest_lab) - Local penetration testing lab using docker-compose.
 - [VulnLab](https://github.com/Yavuzlar/VulnLab) - A vulnerable web application lab using Docker
 - [WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application by OWASP for training purpose
+- [OWASP Security Shepherd](https://github.com/OWASP/SecurityShepherd) - A web and mobile application security training platform for learning and practicing penetration testing skills.
 - [VAmPI](https://github.com/erev0s/VAmPI) - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
 - [OSS – OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) - An intentionally vulnerable e-commerce application built with Next.js and React. A self-hosted CTF platform for web security training covering OWASP Top 10 vulnerabilities.
 - [Owasp VulnerableApp](https://github.com/SasanLabs/VulnerableApp) - A modular deliberately vulnerable application designed primarily for validating and benchmarking security scanners through reproducible test scenarios, while also supporting learning and experimentation.

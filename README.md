@@ -113,6 +113,7 @@ Paid tranining courses
 - [VAmPI](https://github.com/erev0s/VAmPI) - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
 - [OSS – OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) - An intentionally vulnerable e-commerce application built with Next.js and React. A self-hosted CTF platform for web security training covering OWASP Top 10 vulnerabilities.
 - [Owasp VulnerableApp](https://github.com/SasanLabs/VulnerableApp) - A modular deliberately vulnerable application designed primarily for validating and benchmarking security scanners through reproducible test scenarios, while also supporting learning and experimentation.
+- [vulnerable-python](https://github.com/EyalSec/vulnerable-python) - A deliberately vulnerable Flask app where each endpoint wires one source of untrusted data into one risky operation: SQL, shell commands, eval, pickle, file paths, SSRF, XXE, ReDoS and more.
 
 ### SQL Injection
 
@@ -124,6 +125,7 @@ Paid tranining courses
 - [XSSworm.dev](https://github.com/vavkamil/XSSworm.dev) - Self-replication contest
 - [xssed](https://github.com/aj00200/xssed) - A set of XSS vulnerable PHP scripts for testing
 - [xssable](https://github.com/kiwicom/xssable) - A vulnerable blogging platform used to demonstrate XSS vulnerabilities.
+- [vulnerable-javascript](https://github.com/EyalSec/vulnerable-javascript) - A deliberately vulnerable single page retail dashboard with 21 DOM-XSS flows across 8 sources and 18 sinks, hosted live on GitHub Pages with a catalogue of one-click trigger URLs.
 
 ### Server Side Request Forgery
 

@@ -45,6 +45,7 @@ Online vulnerable app and CTFs
 - [Jackpot](https://hego.red/jackpot) - Ten vulnerable AI characters, one per OWASP LLM Top 10 category
 - [OverTheWire: Wargames](https://overthewire.org/wargames/)
 - [Agent Breaker](https://play.lakera.ai/agent-breaker)
+- [Breachloom](https://breachloom.com/) - Browser-based web and API security challenges (IDOR, SQLi, XSS, SSRF, JWT, prompt injection) with theory chapters; one case runs without an account
 
 ## Paid
 

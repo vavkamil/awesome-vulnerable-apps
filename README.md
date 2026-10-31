@@ -103,6 +103,7 @@ Paid tranining courses
 - [DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [DSVW](https://github.com/stamparm/DSVW) - Damn Small Vulnerable Web
 - [bWAPP](https://github.com/raesene/bWAPP) - This is just an instance of the OWASP bWAPP project as a docker container.
+- [VulnLab-App](https://github.com/ranas-mukminov/VulnLab-App) - Intentionally vulnerable local training app (localhost only): SQL injection, XSS, IDOR, SSRF and broken authentication, each with a fixed version
 - [Xtreme Vulnerable Web Application](https://github.com/s4n7h0/xvwa) - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 - [lazyweb](https://github.com/RamadhanAmizudin/lazyweb) - This web application is a demonstration of common server-side application flaws. Each of the vulnerabilities has its own difficulty rating.
 - [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.

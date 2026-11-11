@@ -113,6 +113,7 @@ Paid tranining courses
 - [VAmPI](https://github.com/erev0s/VAmPI) - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing
 - [OSS – OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) - An intentionally vulnerable e-commerce application built with Next.js and React. A self-hosted CTF platform for web security training covering OWASP Top 10 vulnerabilities.
 - [Owasp VulnerableApp](https://github.com/SasanLabs/VulnerableApp) - A modular deliberately vulnerable application designed primarily for validating and benchmarking security scanners through reproducible test scenarios, while also supporting learning and experimentation.
+- [web-security-fixtures](https://github.com/Excession-Labs/web-security-fixtures) - Small local Python fixtures for common web and API flaws (IDOR, SQL injection, SSRF, CSRF and more), each with a vulnerable mode, a fixed mode, a verifier and a recorded run.
 
 ### SQL Injection
 

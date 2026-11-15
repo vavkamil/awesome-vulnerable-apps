@@ -75,6 +75,7 @@ Paid tranining courses
 - [CNAPPgoat](https://github.com/tenable/cnappgoat) - CNAPPgoat is a multi-cloud, vulnerable-by-design environment deployment tool. 
 - [Unguard](https://github.com/dynatrace-oss/unguard) - An insecure cloud-native microservices demo application for Kubernetes
 - [Vulnerable Cloud Lab](https://github.com/anpa1200/vulnerable-cloud-lab) - Intentionally vulnerable GCP and AWS infrastructure deployed with Terraform for authorized cloud security training.
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
 
 ## SSO - Single Sign On
 
